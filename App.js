@@ -101,7 +101,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     padding: 20,
-    // paddingTop: Platform.OS === 'android' ? 25 : 50, // adjust for android bar
     maxWidth: 600, // maximum width
     width: '100%', // full width up to maximum
     alignSelf: 'center',
