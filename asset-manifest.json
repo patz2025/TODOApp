@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/TODOApp/static/js/main.0afe30d7.js",
+    "static/js/985.9c884038.js": "/TODOApp/static/js/985.9c884038.js",
+    "favicon.ico": "/TODOApp/favicon.ico",
+    "index.html": "/TODOApp/index.html",
+    "favicon-32.png": "/TODOApp/favicon-32.png",
+    "favicon-16.png": "/TODOApp/favicon-16.png",
+    "serve.json": "/TODOApp/serve.json",
+    "manifest.json": "/TODOApp/manifest.json",
+    "main.0afe30d7.js.map": "/TODOApp/static/js/main.0afe30d7.js.map",
+    "985.9c884038.js.map": "/TODOApp/static/js/985.9c884038.js.map"
+  },
+  "entrypoints": [
+    "static/js/985.9c884038.js",
+    "static/js/main.0afe30d7.js"
+  ]
+}
